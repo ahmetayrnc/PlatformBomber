@@ -20,3 +20,18 @@ Touch the screen to make your bomb bigger. When you let go of the screen, the bo
 ## Links
 
 ## Gallery
+<p align="middle">
+  <img src="https://github.com/ahmetayrnc/PlatformBomber/blob/master/images/PlatformBomberIcon.png" height="100" width="100">
+</p>
+
+<p float="left" align="middle">
+  <img src="https://github.com/ahmetayrnc/PlatformBomber/blob/master/images/ss1.jpg" height="555" width="270">
+  <img src="https://github.com/ahmetayrnc/PlatformBomber/blob/master/images/ss2.jpg" height="555" width="270">
+  <img src="https://github.com/ahmetayrnc/PlatformBomber/blob/master/images/ss3.jpg" height="555" width="270">
+</p>
+
+<p float="left" align="middle">
+  <img src="https://github.com/ahmetayrnc/PlatformBomber/blob/master/images/ss4.jpg" height="555" width="270">
+  <img src="https://github.com/ahmetayrnc/PlatformBomber/blob/master/images/ss5.jpg" height="555" width="270">
+  <img src="https://github.com/ahmetayrnc/PlatformBomber/blob/master/images/ss6.jpg" height="555" width="270">
+</p>
