@@ -18,6 +18,9 @@ Touch the screen to make your bomb bigger. When you let go of the screen, the bo
 - It uses tweening to make everything smoother.
 
 ## Links
+Download link: Due to technical difficulties with my computer, the game is not currently on any stores.
+
+Video of the game: https://youtu.be/IWdA5BjLlvk
 
 ## Gallery
 <p align="middle">
